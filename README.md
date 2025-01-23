@@ -2,9 +2,9 @@
 <p align="center">@gtumedei</p>
 
 <p align="center">
-  <a href="https://github.com/gtumedei" target="_blank"><img src="https://api.iconify.design/tabler:brand-github.svg" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/gianni-tumedei-7171961b8/" target="_blank"><img src="https://api.iconify.design/tabler:brand-linkedin.svg" height="20" width="20" /></a>
-  <a href="https://goo.gl/maps/knzcetCBj6cHLAAW7" target="_blank"><img src="https://api.iconify.design/tabler:map-pin.svg" height="20" width="20" /></a>
+  <a href="https://github.com/gtumedei" target="_blank"><img src="https://api.iconify.design/tabler:brand-github.svg?color=%23737373" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/gianni-tumedei-7171961b8/" target="_blank"><img src="https://api.iconify.design/tabler:brand-linkedin.svg?color=%23737373" height="20" width="20" /></a>
+  <a href="https://goo.gl/maps/knzcetCBj6cHLAAW7" target="_blank"><img src="https://api.iconify.design/tabler:map-pin.svg?color=%23737373" height="20" width="20" /></a>
 </p>
 
 <p align="center">
